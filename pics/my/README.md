@@ -28,7 +28,7 @@
 * presentation-spl-2024-tseitin
 
 ```
-\maketitle[ulm-city][250][\colorbox{darkgray}{[Ulm]}]
+\maketitle[ulm-city][250][\transparent{.8}\colorbox{darkgray}{[Ulm]}]
 ```
 
 * projects/supervision/thesis-topics
@@ -46,7 +46,7 @@
 * drafts
 
 ```
-\maketitle[hohenwarthe-greenery-bw][210][\colorbox{darkgray}{\light{[Weinbergsquelle, Hohenwarthe]}}]
+\maketitle[hohenwarthe-greenery-bw][210][\transparent{.8}\colorbox{darkgray}{\light{[Weinbergsquelle, Hohenwarthe]}}]
 ```
 
 * presentation-vamos-2024-fm-complexity
