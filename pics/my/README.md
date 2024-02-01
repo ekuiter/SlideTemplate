@@ -46,7 +46,7 @@
 * drafts
 
 ```
-\maketitle[hohenwarthe-greenery-bw][210][\transparent{.8}\colorbox{darkgray}{\light{[Weinbergsquelle, Hohenwarthe]}}]
+\maketitle[hohenwarthe-greenery-bw][210][\transparent{.85}\colorbox{darkgray}{\light{[Weinbergsquelle, Hohenwarthe]}}]
 ```
 
 * presentation-vamos-2024-fm-complexity
