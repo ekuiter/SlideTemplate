@@ -17,8 +17,7 @@
 \usepackage{fontawesome5}
 \usepackage{enumitem}
 
-\usetikzlibrary{angles}
-\usetikzlibrary{tikzmark}
+\usetikzlibrary{angles,tikzmark,arrows,positioning}
 \definecolor{drawColor}{RGB}{128 128 128}
 
 \newcommand{\circleSize}{0.175em}
@@ -276,7 +275,7 @@
 \newcommand{\lightsep}[1]{{\color{lightgray}|}}
 \newcommand{\aff}[1]{\texorpdfstring{\light{$^{#1}$}}{}} % affiliation
 \newcommand{\affsep}[1]{\texorpdfstring{\light{$^{#1}$,}}{}} % affiliation
-\newcommand{\svgsuffix}{} % can be used to load SVG files named <name><suffix>.svg
+\newcommand{\svgsuffix}{.drawio} % can be used to load SVG files named <name><suffix>.svg
 \newcommand{\pw}{\paperwidth} % slide width
 \newcommand{\ph}{\paperheight} % slide height
 \newcommand{\lw}{\linewidth} % width of text box
@@ -306,3 +305,15 @@
 \newcommand{\eg}{e.g.,\xspace}
 \newcommand{\ie}{i.e.,\xspace}
 \newcommand{\cf}[1]{(cf. \autoref{#1})}
+
+\newcommand{\usefancyqr}[1]{\usepackage{textpos}
+\makeatletter
+\def\input@path{{#1}}
+\makeatother
+\usepackage{fancyqr}}
+\newcommand{\enableqr}{\makeatletter
+\renewcommand{\@minipagerestore}{\setlength{\parskip}{0pt}}
+\makeatother}
+\newcommand{\disableqr}{\makeatletter
+\renewcommand{\@minipagerestore}{\setlength{\parskip}{1.5ex}}
+\makeatother}
