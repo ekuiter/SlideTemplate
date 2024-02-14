@@ -12,41 +12,41 @@
 \maketitle[magdeburg-dom][180][\light{[Magdeburger Dom]}]
 ```
 
-* presentation-se-2023-varied
+* 2023-02-22-SE-variED
 
 ```
 \maketitle[magdeburg-jahrtausendturm][250][\light{[Jahrtausendturm Magdeburg]}]
 ```
 
-* presentation-se-2023-tseitin
+* 2023-02-22-SE-Tseitin
 
 ```
 \maketitle[magdeburg-elbe][900][{[Elbe, Magdeburg]}]
 ```
 
-* presentation-sat-2023-tseitin
-* presentation-spl-2024-tseitin
+* 2023-07-04-SAT-Tseitin
+* 2024-01-19-SPL-Tseitin
 
 ```
 \maketitle[ulm-city][250][\transparent{.8}\colorbox{darkgray}{[Ulm]}]
 ```
 
-* projects/supervision/thesis-topics
-
-```
-\maketitle[magdeburg-herrenkrug-bridge-2][180][\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
-```
-
-* drafts
-
-```
-\maketitle[alghero-seagull][210][{[Alghero, Italy]}]
-```
-
-* drafts
+* 2023-07-19-Topics
 
 ```
 \maketitle[hohenwarthe-greenery-bw][210][\transparent{.85}\colorbox{darkgray}{\light{[Weinbergsquelle, Hohenwarthe]}}]
 ```
 
-* presentation-vamos-2024-fm-complexity
+* 2024-02-07-FM-Complexity
+
+```
+\maketitle[magdeburg-herrenkrug-bridge-2][180][\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
+```
+
+* (drafts)
+
+```
+\maketitle[alghero-seagull][210][{[Alghero, Italy]}]
+```
+
+* (drafts)
