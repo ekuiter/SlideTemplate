@@ -44,6 +44,7 @@
 ```
 
 * (drafts)
+* (project/supervision/thesis-topics)
 
 ```
 \maketitle[alghero-seagull][210][{[Alghero, Italy]}]
