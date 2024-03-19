@@ -46,7 +46,7 @@
 * (project/supervision/thesis-topics)
 
 ```
-\maketitle[magdeburg-herrenkrug-bridge-2][180][\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
+\maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 ```
 
 * 2024-04-11-Linux
