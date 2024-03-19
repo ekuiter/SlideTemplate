@@ -40,11 +40,17 @@
 * 2024-02-07-FM-Complexity
 
 ```
+\maketitle[magdeburg-herrenkrug-bridge-1][157][~~\color{darkgray}{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
+```
+
+* (project/supervision/thesis-topics)
+
+```
 \maketitle[magdeburg-herrenkrug-bridge-2][180][\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 ```
 
+* 2024-04-11-Linux
 * (drafts)
-* (project/supervision/thesis-topics)
 
 ```
 \maketitle[alghero-seagull][210][{[Alghero, Italy]}]
@@ -53,5 +59,8 @@
 * (drafts)
 
 ```
-todo: magdeburg-opernhaus
+\maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
+magdeburg-opernhaus
 ```
+
+* (unused)
