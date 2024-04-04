@@ -43,7 +43,7 @@
 \maketitle[magdeburg-herrenkrug-bridge-1][157][~~\color{darkgray}{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 ```
 
-* (project/supervision/thesis-topics)
+* (project/supervision/thesis-topics, https://www.dbse.ovgu.de/Abschlussarbeiten.html)
 
 ```
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
