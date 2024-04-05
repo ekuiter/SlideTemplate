@@ -275,8 +275,9 @@
 
 \newcommand{\light}[1]{{\color{lightgray}#1}}
 \newcommand{\lightsep}[1]{{\color{lightgray}|}}
-\newcommand{\aff}[1]{\texorpdfstring{\light{$^{#1}$}}{}} % affiliation
-\newcommand{\affsep}[1]{\texorpdfstring{\light{$^{#1}$,}}{}} % affiliation
+\newcommand{\presenter}[1]{\texorpdfstring{\underline{#1}}{#1}} % presenter
+\newcommand{\aff}[1]{\texorpdfstring{\light{$^{#1}_{\raisebox{2pt}{\normalsize ,}}$}}{,}} % affiliation
+\newcommand{\lastaff}[1]{\texorpdfstring{\light{$^{#1}$}}{}} % affiliation
 \newcommand{\svgsuffix}{.drawio} % can be used to load SVG files named <name><suffix>.svg
 \newcommand{\pw}{\paperwidth} % slide width
 \newcommand{\ph}{\paperheight} % slide height
