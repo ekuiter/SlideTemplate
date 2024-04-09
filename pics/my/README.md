@@ -49,13 +49,13 @@
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 ```
 
-* 2024-04-11-Linux
 * (drafts)
 
 ```
 \maketitle[alghero-seagull][210][{[Alghero, Italy]}]
 ```
 
+* 2024-04-11-Linux
 * (drafts)
 
 ```
