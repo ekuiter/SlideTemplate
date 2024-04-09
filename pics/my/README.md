@@ -52,7 +52,7 @@
 * (drafts)
 
 ```
-\maketitle[alghero-seagull][210][{[Alghero, Italy]}]
+\maketitle[alghero-seagull][210][{~~[Alghero, Italy]}]
 ```
 
 * 2024-04-11-Linux
