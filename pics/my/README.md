@@ -25,9 +25,6 @@
 \maketitle[magdeburg-jahrtausendturm][250][\light{[Jahrtausendturm Magdeburg]}]
 % 2023-02-22-SE-Tseitin
 
-\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Paderborn]}]
-% 2024-04-18-Topics
-
 \maketitle[ulm-city][250][\transparent{.8}\colorbox{darkgray}{[Ulm]}]
 % 2023-07-19-Topics
 ```
@@ -42,4 +39,6 @@
 % todo: magdeburg-opernhaus
 
 \maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
+
+\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Paderborn]}]
 ```
