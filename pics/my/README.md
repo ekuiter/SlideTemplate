@@ -33,6 +33,7 @@
 
 ```
 \maketitle[magdeburg-herrenkrug-bridge-1][157][~~\color{darkgray}{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
+% Thesis Topics?
 
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 
@@ -41,4 +42,5 @@
 \maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
 
 \maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Paderborn]}]
+% retreat
 ```
