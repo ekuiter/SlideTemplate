@@ -41,6 +41,6 @@
 
 \maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
 
-\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Paderborn]}]
+\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{~~[Universität Paderborn]}]
 % retreat
 ```
