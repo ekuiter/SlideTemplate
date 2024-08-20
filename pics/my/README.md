@@ -42,6 +42,6 @@
 \maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
 % Linux versus solvers
 
-\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{~~[Universität Paderborn]}]
+\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Universität Paderborn]}]
 % retreat
 ```
