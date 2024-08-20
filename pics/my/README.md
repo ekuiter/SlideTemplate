@@ -36,11 +36,11 @@
 % Thesis Topics?
 
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
-% Linux versus solvers
 
 % todo: magdeburg-opernhaus
 
 \maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
+% Linux versus solvers
 
 \maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{~~[Universität Paderborn]}]
 % retreat
