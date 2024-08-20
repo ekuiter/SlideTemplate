@@ -36,6 +36,7 @@
 % Thesis Topics?
 
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
+% Linux versus solvers
 
 % todo: magdeburg-opernhaus
 
