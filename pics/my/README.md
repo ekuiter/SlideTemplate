@@ -25,6 +25,9 @@
 \maketitle[magdeburg-jahrtausendturm][250][\light{[Jahrtausendturm Magdeburg]}]
 % 2023-02-22-SE-Tseitin
 
+\maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
+% 2024-08-27-SoftVarE-Linux-Time-Travel
+
 \maketitle[ulm-city][250][\transparent{.8}\colorbox{darkgray}{[Ulm]}]
 % 2023-07-19-Topics
 ```
@@ -38,9 +41,6 @@
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 
 % todo: magdeburg-opernhaus
-
-\maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
-% Linux versus solvers
 
 \maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Universität Paderborn]}]
 % retreat
