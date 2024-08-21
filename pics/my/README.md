@@ -28,6 +28,9 @@
 \maketitle[magdeburg-skyline][65][\light{~~[Magdeburg]}]
 % 2024-08-27-SoftVarE-Linux-Time-Travel
 
+\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Universität Paderborn]}]
+% 2024-08-27-SoftVarE-PhD-Thesis
+
 \maketitle[ulm-city][250][\transparent{.8}\colorbox{darkgray}{[Ulm]}]
 % 2023-07-19-Topics
 ```
@@ -41,7 +44,4 @@
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 
 % todo: magdeburg-opernhaus
-
-\maketitle[paderborn-university][230][\transparent{.8}\colorbox{darkgray}{[Universität Paderborn]}]
-% retreat
 ```
