@@ -42,6 +42,7 @@
 % Thesis Topics?
 
 \maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
+% 2024-09-26-DBSE-PhD-Thesis
 
 % todo: magdeburg-opernhaus
 ```
