@@ -329,3 +329,46 @@
 \makeatother}
 
 \newcommand{\coloritem}[2][gray]{\item[\color{#1}$\bullet$] {\color{#1}#2}}
+
+\makeatletter
+\newcommand{\mydark}[1][1]{
+	\def\mydark@width{#1}
+	\setbeamercolor{frametitle}{fg=white}
+	\setbeamercolor{normal text}{fg=white}
+	\usebeamercolor[fg]{normal text}
+	\setbeamertemplate{background canvas}{
+		\begin{tikzpicture}[remember picture,overlay]
+			\shade[top color=ovgured,bottom color=ovguaccent,middle color=ovguaccent,vertical custom shading=65]
+			([shift={(0pt,0pt)}]current page.north west)				rectangle
+			([shift={(\mydark@width\paperwidth,0pt)}]current page.south west);
+		\end{tikzpicture}
+	}
+}
+\newcommand{\mylight}{%
+	\setbeamercolor{normal text}{fg=black}%
+	\usebeamercolor[fg]{normal text}%
+}
+\newcommand{\mylighttitle}{%
+	\mylight%
+	\hspace*{\mydark@width\paperwidth}%
+}
+\tikzset{vertical custom shading/.code={%
+ \pgfmathsetmacro\tikz@vcs@middle{#1}
+ \pgfmathsetmacro\tikz@vcs@bottom{\tikz@vcs@middle/2}
+ \pgfmathsetmacro\tikz@vcs@top{(100-\tikz@vcs@middle)/2+\tikz@vcs@middle}
+\pgfdeclareverticalshading[tikz@axis@top,tikz@axis@middle,tikz@axis@bottom]{newaxis}{100bp}{%
+  color(0bp)=(tikz@axis@bottom);
+  color(\tikz@vcs@bottom bp)=(tikz@axis@bottom);
+  color(\tikz@vcs@middle bp)=(tikz@axis@middle);
+  color(\tikz@vcs@top bp)=(tikz@axis@top);
+  color(100bp)=(tikz@axis@top)}
+  \pgfkeysalso{/tikz/shading=newaxis}
+  }
+}
+\makeatother
+
+\newcommand{\myframeicon}[1]{%
+	\begin{tikzpicture}[remember picture,overlay]%
+	    \node[xshift=-5mm,yshift=-2.8125mm,anchor=north east,align=right] at (current page.north east){#1};%
+	\end{tikzpicture}%
+}
