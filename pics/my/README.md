@@ -22,6 +22,9 @@
 % 2023-07-04-SAT-Tseitin
 % 2024-01-19-SPL-Tseitin
 
+\maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
+% 2024-09-27-DBSE-PhD-Thesis
+
 \maketitle[magdeburg-jahrtausendturm][250][\light{[Jahrtausendturm Magdeburg]}]
 % 2023-02-22-SE-Tseitin
 
@@ -40,9 +43,6 @@
 ```
 \maketitle[magdeburg-herrenkrug-bridge-1][157][~~\color{darkgray}{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
 % Thesis Topics?
-
-\maketitle[magdeburg-herrenkrug-bridge-2][180][~~\light{[Herrenkrug-Eisenbahnbrücke Magdeburg]}]
-% 2024-09-26-DBSE-PhD-Thesis
 
 % todo: magdeburg-opernhaus
 ```
